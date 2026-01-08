@@ -144,8 +144,8 @@ const settingsCommand = require('./commands/settings');
 const soraCommand = require('./commands/sora');
 
 // Global settings
-global.packname = settings.packname;
-global.author = settings.author;
+global.packname = '꧁༒☬𝓡𝓮𝓭 𝓡𝓪𝓵𝓹𝓱 𝔁 𝓓𝓲𝓰𝓰𝓪 𝓓☬༒꧂settings.packname;
+global.author ='Red Ralph settings.author;
 global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
 global.ytch = "Mr Unique Hacker";
 
