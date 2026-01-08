@@ -1,5 +1,5 @@
 {
-  "name": "knightbot",
+  "name": "꧁༒☬𝓡𝓮𝓭'𝓡𝓪𝓵𝓹𝓱 𝔁 𝓓𝓲𝓰𝓰𝓪 𝓓☬༒꧂",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -13,12 +13,12 @@
     "install:panel": "npm install --legacy-peer-deps",
     "install:force": "npm install --force",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID knightbot"
+    "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID ꧁༒☬𝓡𝓮𝓭'𝓡𝓪𝓵𝓹𝓱 𝔁 𝓓𝓲𝓰𝓰𝓪 𝓓☬༒꧂"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "",
+  "author": "Red Ralph",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
